@@ -143,7 +143,7 @@ Contact us for a custom quote.
 
 ### Contact Information
 
-**Email**: enterprise@forgevista.com
+**Email**: enterprise@forgevista.ai
 
 **What to include**:
 - Your organization name
